@@ -24,7 +24,7 @@ import os
 import uvloop
 
 bot = Client("bot",
-             bot_token= "6922573423:AAHscEaCDf5YwSMwq12B3G4bJJJYV5RTOLc",
+             bot_token= "7079489791:AAHWmG_7EA1GAtXGycH2UJF9_XrbAAMw9XA",
              api_id= 20088962,
              api_hash= "257f47d347157555890a64b12bc0134f"
 )
